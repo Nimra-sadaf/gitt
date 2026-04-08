@@ -109,3 +109,12 @@ public class CalculatorTest {
     }
 }
 mvn clean test (t1)
+
+18th docker push
+
+docker images
+docker login
+docker tag <image> <username>/<repository-name>
+docker images
+docker pull <username>/<repository-name>
+docker pull <username>/<repository-name>
