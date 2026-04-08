@@ -1,3 +1,7 @@
+#19th
+docker build -t java-app .
+docker run -d -t java-app
+
 17th docker volume and 15
 
 docker --version
